@@ -53,5 +53,9 @@
             </p>
         </div>
     </footer>
+
+    <script> var _blikk_no_load_scripts = true; </script>
+    <script src="//www.blikk.it/scripts/scripts.js"></script>
+
 </body>
 </html>
