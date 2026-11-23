@@ -24,9 +24,9 @@ jobs:
       DEPLOY_PORT: ${{ vars.DEPLOY_PORT || '22' }}
       TARGET_UID: 82
       TARGET_GID: 82
-      DEPLOY_PATH: /apps/www/tools/dobble
-      APP_PATH: tools/dobble
-      DEPLOY_OPTIMIZE_URL: https://apps.blikk.it/dobble/optimize.php
+      DEPLOY_PATH: /apps/www/tools/mira
+      APP_PATH: tools/mira
+      DEPLOY_OPTIMIZE_URL: https://apps.blikk.it/mira/optimize.php
 
     steps:
       - name: Checkout

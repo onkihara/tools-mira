@@ -2,7 +2,7 @@
 
 return [
     'client' => [
-        'app_name' => 'Dobble-Werkstatt',
+        'app_name' => 'Mira-Werkstatt',
         'subtitle' => 'Dein eigenes Symbolkarten-Set',
         'language' => 'Sprache',
         'switch_language' => 'Wechseln',
@@ -13,7 +13,7 @@ return [
         'city' => 'Bozen',
         'hero' => [
             'tagline' => 'Einzigartig. Selbst gestaltet. Druckbereit.',
-            'title' => 'Dein Dobble-Set beginnt hier.',
+            'title' => 'Dein Mira-Set beginnt hier.',
             'description' => 'Stelle dein Set zusammen, lade eigene Symbole hoch und prüfe die Karten. Die mathematische Konstruktion garantiert genau ein gemeinsames Symbol pro Kartenpaar.',
         ],
         'steps' => [
@@ -116,7 +116,7 @@ return [
             'invalid_placements' => 'Die Serverantwort enthält eine ungültige Symbolanordnung.',
         ],
         'print' => [
-            'title' => 'Dobble-Set drucken',
+            'title' => 'Mira-Set drucken',
             'back' => '← Zurück zur Werkstatt',
             'preview' => 'Druckvorschau · :count Karten',
             'instructions' => 'Im Druckdialog „Als PDF speichern“ wählen. Druckformat: A4, Hochformat, Skalierung 100 %.',

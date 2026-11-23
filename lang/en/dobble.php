@@ -2,7 +2,7 @@
 
 return [
     'client' => [
-        'app_name' => 'Dobble Workshop',
+        'app_name' => 'Mira Workshop',
         'subtitle' => 'Your own symbol card set',
         'language' => 'Language',
         'switch_language' => 'Change',
@@ -13,7 +13,7 @@ return [
         'city' => 'Bolzano',
         'hero' => [
             'tagline' => 'Unique. Designed by you. Ready to print.',
-            'title' => 'Start creating your Dobble set.',
+            'title' => 'Start creating your Mira set.',
             'description' => 'Configure your set, upload your own symbols, and review the cards. The mathematical construction guarantees exactly one shared symbol in every pair of cards.',
         ],
         'steps' => [
@@ -116,7 +116,7 @@ return [
             'invalid_placements' => 'The server response contains an invalid symbol layout.',
         ],
         'print' => [
-            'title' => 'Print Dobble set',
+            'title' => 'Print Mira set',
             'back' => '← Back to workshop',
             'preview' => 'Print preview · :count cards',
             'instructions' => 'In the print dialog, choose “Save as PDF”. Paper: A4 portrait, scale 100%.',

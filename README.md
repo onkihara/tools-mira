@@ -1,4 +1,4 @@
-# Dobble-Werkstatt
+# Mira
 
 Eine kleine Laravel-Anwendung, mit der du ein eigenes Dobble-Set konfigurieren, mit Bildern versehen, prüfen und druckfertig aufbereiten kannst.
 

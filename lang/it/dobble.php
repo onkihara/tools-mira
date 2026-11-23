@@ -2,7 +2,7 @@
 
 return [
     'client' => [
-        'app_name' => 'Officina Dobble',
+        'app_name' => 'Officina Mira',
         'subtitle' => 'Il tuo set di carte con simboli',
         'language' => 'Lingua',
         'switch_language' => 'Cambia',
@@ -13,7 +13,7 @@ return [
         'city' => 'Bolzano',
         'hero' => [
             'tagline' => 'Unico. Creato da te. Pronto da stampare.',
-            'title' => 'Il tuo set Dobble inizia qui.',
+            'title' => 'Il tuo set Mira inizia qui.',
             'description' => 'Configura il set, carica i tuoi simboli e controlla le carte. La costruzione matematica garantisce esattamente un simbolo in comune per ogni coppia di carte.',
         ],
         'steps' => [
@@ -116,7 +116,7 @@ return [
             'invalid_placements' => 'La risposta del server contiene una disposizione dei simboli non valida.',
         ],
         'print' => [
-            'title' => 'Stampa il set Dobble',
+            'title' => 'Stampa il set Mira',
             'back' => '← Torna all’officina',
             'preview' => 'Anteprima di stampa · :count carte',
             'instructions' => 'Nel menu di stampa scegli “Salva come PDF”. Formato: A4, verticale, scala 100%.',
