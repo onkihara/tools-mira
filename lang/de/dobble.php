@@ -14,7 +14,7 @@ return [
         'hero' => [
             'tagline' => 'Einzigartig. Selbst gestaltet. Druckbereit.',
             'title' => 'Dein Mira-Set beginnt hier.',
-            'description' => 'Stelle dein Set zusammen, lade eigene Symbole hoch und prüfe die Karten. Die mathematische Konstruktion garantiert genau ein gemeinsames Symbol pro Kartenpaar.',
+            'description' => 'Stelle dein eigenes Dobble-Set zusammen, lade eigene Symbole hoch und prüfe die Karten. Die mathematische Konstruktion garantiert genau ein gemeinsames Symbol pro Kartenpaar.',
         ],
         'steps' => [
             'navigation' => 'Arbeitsschritte',

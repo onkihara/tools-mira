@@ -2,6 +2,10 @@
 
 Eine kleine Laravel-Anwendung, mit der du ein eigenes Dobble-Set konfigurieren, mit Bildern versehen, prüfen und druckfertig aufbereiten kannst.
 
+## Prinzip
+
+[Dobble auf Wikipedia](https://de.wikipedia.org/wiki/Dobble)
+
 ## Voraussetzungen
 
 - PHP 8.3 oder neuer

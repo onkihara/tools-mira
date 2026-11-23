@@ -14,7 +14,7 @@ return [
         'hero' => [
             'tagline' => 'Unico. Creato da te. Pronto da stampare.',
             'title' => 'Il tuo set Mira inizia qui.',
-            'description' => 'Configura il set, carica i tuoi simboli e controlla le carte. La costruzione matematica garantisce esattamente un simbolo in comune per ogni coppia di carte.',
+            'description' => 'Configura il tuo Dobble set, carica i tuoi simboli e controlla le carte. La costruzione matematica garantisce esattamente un simbolo in comune per ogni coppia di carte.',
         ],
         'steps' => [
             'navigation' => 'Fasi di lavoro',

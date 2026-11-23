@@ -14,7 +14,7 @@ return [
         'hero' => [
             'tagline' => 'Unique. Designed by you. Ready to print.',
             'title' => 'Start creating your Mira set.',
-            'description' => 'Configure your set, upload your own symbols, and review the cards. The mathematical construction guarantees exactly one shared symbol in every pair of cards.',
+            'description' => 'Configure your own Dobble-set, upload your own symbols, and review the cards. The mathematical construction guarantees exactly one shared symbol in every pair of cards.',
         ],
         'steps' => [
             'navigation' => 'Steps',
